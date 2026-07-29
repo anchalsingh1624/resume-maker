@@ -80,7 +80,7 @@ def prompt_reader():
         prompt = f.read()
     return prompt
 
-prompt = """I want complete Professional
+prompt = f"""I want complete Professional
 Resume with Dynamic Design using Advanced CSS and JS
 and must show user input details
 System instructions: Only Give HTML code as output use dark green text and dark theme
